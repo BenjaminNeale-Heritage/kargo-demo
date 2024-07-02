@@ -15,4 +15,4 @@ patches:
     name: kargo-demo
 images:
 - name: quay.io/maistra/examples-bookinfo-details-v1
-  newTag: 2.1.0
+  newTag: 2.4.0
